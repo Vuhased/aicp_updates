@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": $(date +%s),
-      "filename": "aicp_sweet_w-21.2-UNOFFICIAL-20260407.zip",
-      "id": "vuhased_build_001",
-      "romtype": "unofficial",
-      "size": 2147483648,
-      "url": "https://github.com/vuhased/aicp_updates/releases/download/v1.0/aicp_sweet_w-21.2-UNOFFICIAL-20260407.zip",
+      "datetime": 1775030400,
+      "filename": "aicp_sweet_w-21.2-UNOFFICIAL-20260501.zip",
+      "id": "78901234567890123456789012345678",
+      "romtype": "UNOFFICIAL",
+      "size": 1234567890,
+      "url": "https://github.com/Vuhased/aicp_updates/releases/download/v1/test.zip",
       "version": "21.2"
     }
   ]
